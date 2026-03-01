@@ -1,0 +1,32 @@
+:root {
+  /* Backgrounds — chauds et sombres */
+  --bg-primary:    #0C0804;
+  --bg-secondary:  #16100A;
+  --bg-card:       rgba(255, 255, 255, 0.04);
+  --bg-card-hover: rgba(255, 255, 255, 0.07);
+
+  /* Orange — couleur signature */
+  --orange:        #E85D04;
+  --orange-light:  #F4A261;
+  --orange-dark:   #C44D00;
+  --orange-glow:   rgba(232, 93, 4, 0.35);
+
+  /* Texte */
+  --text-primary:   #F8F4F0;
+  --text-secondary: #A89080;
+  --text-muted:     #5C4A3A;
+
+  /* Bordures */
+  --border:       rgba(255, 255, 255, 0.07);
+  --border-hover: rgba(255, 255, 255, 0.14);
+
+  /* Misc */
+  --font:       'Inter', system-ui, -apple-system, sans-serif;
+  --radius:     12px;
+  --radius-lg:  20px;
+  --transition: 0.25s ease;
+
+  /* Vert végétarien */
+  --green:      #2D6A4F;
+  --green-bg:   rgba(45, 106, 79, 0.15);
+}
