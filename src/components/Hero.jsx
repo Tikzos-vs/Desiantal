@@ -37,7 +37,7 @@ export default function Hero() {
 
             <h1 className="hero__title">
               <span className="hero__title-line" data-hero="line">Le vrai kebab,</span>
-              <span className="hero__title-line gradient-text" data-hero="line">le bon goût.</span>
+              <span className="hero__title-line gradient-text" data-hero="line">le bon goût. For sure</span>
             </h1>
 
             <p className="hero__subtitle" data-hero="subtitle">
